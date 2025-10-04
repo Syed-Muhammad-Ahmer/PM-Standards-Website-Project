@@ -1,0 +1,41 @@
+{
+  "name": "ISO 21500",
+  "description": "ISO 21500 provides guidance on concepts and processes of project management that are important for, and have impact on, the performance of projects.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "Structured project management",
+      "content": "Apply a structured approach to project management by dividing the project into manageable phases and processes."
+    },
+    {
+      "id": 2,
+      "title": "Adaptation to context",
+      "content": "Tailor project management approaches to suit the project's context, including organizational environment, complexity, and stakeholder requirements."
+    },
+    {
+      "id": 3,
+      "title": "Stakeholder engagement and management",
+      "content": "Systematically identify, analyze, and engage stakeholders to ensure their needs and expectations are understood and addressed throughout the project."
+    },
+    {
+      "id": 4,
+      "title": "Value-focused delivery",
+      "content": "Ensure project activities and outcomes deliver value to the organization and stakeholders, aligning with strategic objectives."
+    },
+    {
+      "id": 5,
+      "title": "Systematic quality management",
+      "content": "Implement quality management processes to ensure project deliverables meet defined requirements and stakeholder expectations."
+    },
+    {
+      "id": 6,
+      "title": "Risk management integration",
+      "content": "Integrate risk management throughout the project lifecycle to identify, assess, and respond to uncertainties that may impact project objectives."
+    },
+    {
+      "id": 7,
+      "title": "Continuous improvement",
+      "content": "Apply lessons learned and best practices to improve project management processes and outcomes throughout the project lifecycle."
+    }
+  ]
+}

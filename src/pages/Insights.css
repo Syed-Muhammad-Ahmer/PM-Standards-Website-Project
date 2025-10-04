@@ -1,0 +1,185 @@
+.insights {
+  padding: 3rem 0;
+  min-height: calc(100vh - 70px);
+  background-color: #f8fafc;
+}
+
+.insights-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.stat-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border-left: 4px solid #3b82f6;
+}
+
+.stat-card h3 {
+  font-size: 2rem;
+  color: #3b82f6;
+  margin-bottom: 0.5rem;
+}
+
+.stat-card p {
+  color: #6b7280;
+  font-weight: 500;
+}
+
+.coverage-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 3rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.coverage-section h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #1f2937;
+}
+
+.coverage-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.coverage-card {
+  text-align: center;
+}
+
+.coverage-card h3 {
+  margin-bottom: 1rem;
+  color: #374151;
+}
+
+.coverage-bar {
+  background-color: #e5e7eb;
+  border-radius: 10px;
+  height: 12px;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+}
+
+.coverage-fill {
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.5s ease;
+}
+
+.insights-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+.insight-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+  border: 1px solid #e5e7eb;
+}
+
+.differences-card {
+  grid-column: 1 / -1; /* Make differences card span full width */
+  min-height: 600px; /* Increased minimum height */
+}
+
+.insight-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.insight-card h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1.5rem;
+  color: #1f2937;
+  text-align: center;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+.insight-content h3 {
+  font-size: 1.2rem;
+  margin: 1.5rem 0 1rem 0;
+  color: #374151;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.insight-content ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.insight-content li {
+  padding: 0.75rem 0;
+  color: #4b5563;
+  line-height: 1.6;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.insight-content li:last-child {
+  border-bottom: none;
+}
+
+.insight-content li:before {
+  content: "•";
+  color: #3b82f6;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.insight-content strong {
+  color: #374151;
+  font-weight: 600;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .insights-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .differences-card {
+    grid-column: 1;
+  }
+  
+  .insight-card {
+    padding: 1.5rem;
+  }
+  
+  .insights-stats {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .insights {
+    padding: 2rem 0;
+  }
+  
+  .insight-card {
+    padding: 1rem;
+  }
+  
+  .coverage-section {
+    padding: 1.5rem;
+  }
+}
+.h2
+{
+    font-size: larger;
+}

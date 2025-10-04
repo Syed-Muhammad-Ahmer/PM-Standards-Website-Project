@@ -1,0 +1,66 @@
+{
+  "name": "PMBOK 7",
+  "description": "A Guide to the Project Management Body of Knowledge (PMBOK Guide) provides guidelines for managing individual projects and defines project management related concepts.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "Be a diligent, respectful, and caring steward",
+      "content": "Stewardship involves being entrusted with responsibility for the project and its outcomes. This principle emphasizes integrity, care, and trustworthiness in managing resources and delivering value."
+    },
+    {
+      "id": 2,
+      "title": "Create a collaborative project team environment",
+      "content": "Foster an environment of collaboration, trust, and alignment among team members to enhance project performance and outcomes."
+    },
+    {
+      "id": 3,
+      "title": "Effectively engage with stakeholders",
+      "content": "Identify, analyze, and engage stakeholders throughout the project lifecycle to ensure their needs and expectations are understood and managed."
+    },
+    {
+      "id": 4,
+      "title": "Focus on value",
+      "content": "Ensure that all project activities and deliverables contribute to achieving the intended business value and benefits."
+    },
+    {
+      "id": 5,
+      "title": "Recognize, evaluate, and respond to system interactions",
+      "content": "Understand and manage the project as a system of interconnected components that influence each other and the overall outcome."
+    },
+    {
+      "id": 6,
+      "title": "Demonstrate leadership behaviors",
+      "content": "Exhibit leadership qualities that inspire, motivate, and guide the project team toward successful outcomes."
+    },
+    {
+      "id": 7,
+      "title": "Tailor based on context",
+      "content": "Adapt project management approaches, methods, and artifacts to suit the project environment, constraints, and stakeholder needs."
+    },
+    {
+      "id": 8,
+      "title": "Build quality into processes and deliverables",
+      "content": "Incorporate quality standards and practices throughout the project lifecycle to meet stakeholder requirements and expectations."
+    },
+    {
+      "id": 9,
+      "title": "Navigate complexity",
+      "content": "Identify and address the complexities inherent in projects, including uncertainty, ambiguity, and dynamic environments."
+    },
+    {
+      "id": 10,
+      "title": "Optimize risk responses",
+      "content": "Systematically identify, analyze, and respond to risks to maximize opportunities and minimize threats to project objectives."
+    },
+    {
+      "id": 11,
+      "title": "Embrace adaptability and resiliency",
+      "content": "Remain flexible and responsive to change while maintaining focus on project goals and deliverables."
+    },
+    {
+      "id": 12,
+      "title": "Enable change to achieve the envisioned future state",
+      "content": "Projects are vehicles for organizational change. This principle focuses on managing the transition from current to future state, including addressing resistance, building commitment, and ensuring the organization can sustain the changes. Success requires aligning project outcomes with strategic objectives and preparing people for new ways of working."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.explorer {
+  padding: 3rem 0;
+  min-height: calc(100vh - 70px);
+}
+
+.standards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+  align-items: stretch;
+}

@@ -1,0 +1,41 @@
+{
+  "name": "PRINCE2",
+  "description": "PRINCE2 (Projects IN Controlled Environments) is a process-based method for effective project management, widely used in the UK and internationally.",
+  "principles": [
+    {
+      "id": 1,
+      "title": "Continued business justification",
+      "content": "A PRINCE2 project must have continued business justification. There should be a clear business case answering why the project is being undertaken, what the benefits are, and what the costs and risks are."
+    },
+    {
+      "id": 2,
+      "title": "Learn from experience",
+      "content": "PRINCE2 project teams should learn from previous projects and apply those lessons throughout the current project's lifecycle."
+    },
+    {
+      "id": 3,
+      "title": "Define roles and responsibilities",
+      "content": "Clear organization structure with defined roles and responsibilities for everyone involved in the project, ensuring accountability and efficient decision-making."
+    },
+    {
+      "id": 4,
+      "title": "Manage by stages",
+      "content": "PRINCE2 projects are planned, monitored, and controlled on a stage-by-stage basis, with each stage representing a distinct part of the project."
+    },
+    {
+      "id": 5,
+      "title": "Manage by exception",
+      "content": "Establish tolerances for each project objective to define limits of delegated authority, enabling efficient use of management time and focus on exceptions."
+    },
+    {
+      "id": 6,
+      "title": "Focus on products",
+      "content": "PRINCE2 focuses on the definition and delivery of products, particularly their quality requirements, ensuring clear understanding of project deliverables."
+    },
+    {
+      "id": 7,
+      "title": "Tailor to suit the project environment",
+      "content": "PRINCE2 should be tailored to suit the project's environment, size, complexity, importance, capability, and risk."
+    }
+  ]
+}

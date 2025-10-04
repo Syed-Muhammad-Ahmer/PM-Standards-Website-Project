@@ -1,0 +1,364 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Risk Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK emphasizes a systematic approach to risk management through six processes: Plan Risk Management, Identify Risks, Perform Qualitative Risk Analysis, Perform Quantitative Risk Analysis, Plan Risk Responses, and Implement Risk Responses. It focuses on both threats and opportunities.",
+          "principleId": 10
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 integrates risk management throughout its processes, with specific focus on risk identification, assessment, and response planning. It uses risk registers and emphasizes business risk management aligned with project objectives.",
+          "principleId": 5
+        },
+        "ISO": {
+          "content": "ISO 21500 provides a standardized framework for risk management, emphasizing systematic identification, analysis, evaluation, treatment, and monitoring of risks throughout the project lifecycle.",
+          "principleId": 6
+        }
+      }
+    },
+    {
+      "id": 2,
+      "title": "Quality Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK addresses quality through three processes: Plan Quality Management, Manage Quality, and Control Quality. It emphasizes continuous improvement and meeting stakeholder quality requirements.",
+          "principleId": 8
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 focuses on product-based quality planning with defined quality criteria, quality assurance, and quality control activities. It emphasizes the 'fit for purpose' concept.",
+          "principleId": 6
+        },
+        "ISO": {
+          "content": "ISO 21500 integrates quality management throughout project processes, emphasizing systematic quality planning, assurance, and control to meet requirements and deliver value.",
+          "principleId": 5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "title": "Stakeholder Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK provides comprehensive stakeholder management through identification, analysis, engagement planning, and engagement management processes throughout the project lifecycle.",
+          "principleId": 3
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 addresses stakeholder management through communication management strategy and regular engagement, focusing on maintaining stakeholder support and managing expectations.",
+          "principleId": 3
+        },
+        "ISO": {
+          "content": "ISO 21500 emphasizes systematic stakeholder identification, analysis, and engagement to ensure their needs and expectations are understood and addressed.",
+          "principleId": 3
+        }
+      }
+    },
+    {
+      "id": 4,
+      "title": "Change Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK handles change through integrated change control process, evaluating all change requests, managing the change control system, and updating project documents.",
+          "principleId": 12
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 manages change through issue and change control procedure, with clear roles for authorizing changes and configuration management.",
+          "principleId": 4
+        },
+        "ISO": {
+          "content": "ISO 21500 provides guidelines for change control processes, focusing on documenting changes, assessing impacts, and obtaining approvals.",
+          "principleId": 7
+        }
+      }
+    },
+    {
+      "id": 5,
+      "title": "Planning Approach",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK uses progressive elaboration with detailed planning processes including scope, schedule, cost, and resource planning with comprehensive project management plans.",
+          "principleId": 7
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 employs product-based planning approach, focusing on deliverables with product descriptions and activity networks with stage management.",
+          "principleId": 4
+        },
+        "ISO": {
+          "content": "ISO 21500 emphasizes structured planning with defined processes for scope, time, cost, and resource planning aligned with organizational objectives.",
+          "principleId": 1
+        }
+      }
+    },
+    {
+      "id": 6,
+      "title": "Leadership & Team Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK emphasizes leadership behaviors, team development, and conflict resolution with focus on creating collaborative environments.",
+          "principleId": 6
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 defines clear project roles and responsibilities with management by exception and clear reporting lines for team management.",
+          "principleId": 3
+        },
+        "ISO": {
+          "content": "ISO 21500 focuses on leadership commitment and team competence development for project success.",
+          "principleId": 2
+        }
+      }
+    },
+    {
+      "id": 7,
+      "title": "Monitoring & Control",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK uses earned value management, performance measurement, and variance analysis for monitoring with work performance data and change control boards.",
+          "principleId": 11
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 employs management by exception with tolerance levels, stage boundaries, and highlight reports for progress monitoring.",
+          "principleId": 5
+        },
+        "ISO": {
+          "content": "ISO 21500 emphasizes performance monitoring through regular progress assessments, performance indicators, and corrective actions.",
+          "principleId": 7
+        }
+      }
+    },
+    {
+      "id": 8,
+      "title": "Communication Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK provides comprehensive communication management including planning, distribution, and monitoring of project information with technology assessment.",
+          "principleId": 3
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 includes communication management with defined communication lines, reporting structures, checkpoints and regular reports.",
+          "principleId": 3
+        },
+        "ISO": {
+          "content": "ISO 21500 emphasizes effective communication planning and execution with information distribution and feedback mechanisms.",
+          "principleId": 3
+        }
+      }
+    },
+    {
+      "id": 9,
+      "title": "Scope Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK manages scope through detailed requirements collection, scope definition, WBS creation, scope validation, and control processes.",
+          "principleId": 4
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 controls scope through product descriptions, change control, and configuration management with focus on deliverables.",
+          "principleId": 6
+        },
+        "ISO": {
+          "content": "ISO 21500 handles scope through requirements management, scope definition, and control processes aligned with project objectives.",
+          "principleId": 1
+        }
+      }
+    },
+    {
+      "id": 10,
+      "title": "Cost Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK approaches cost management through estimation, budgeting, and control processes with earned value management for performance measurement.",
+          "principleId": 4
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 manages costs through business case validation, budget authorization, and cost control with tolerance levels and exception reporting.",
+          "principleId": 1
+        },
+        "ISO": {
+          "content": "ISO 21500 provides cost management guidelines through estimation, budgeting, and control processes with financial performance monitoring.",
+          "principleId": 4
+        }
+      }
+    },
+    {
+      "id": 11,
+      "title": "Time Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK manages time through activity definition, sequencing, duration estimation, schedule development, and control processes with critical path method.",
+          "principleId": 7
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 handles time management through activity planning, resource scheduling, and stage-based time control with tolerance management.",
+          "principleId": 4
+        },
+        "ISO": {
+          "content": "ISO 21500 provides time management through activity definition, sequencing, and schedule control aligned with project timelines.",
+          "principleId": 1
+        }
+      }
+    },
+    {
+      "id": 12,
+      "title": "Resource Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK manages resources through planning, acquisition, development, management, and control of team and physical resources.",
+          "principleId": 2
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 handles resources through resource planning, allocation, and management within defined project organization structure.",
+          "principleId": 3
+        },
+        "ISO": {
+          "content": "ISO 21500 provides resource management guidelines through planning, allocation, and control of human and material resources.",
+          "principleId": 4
+        }
+      }
+    },
+    {
+      "id": 13,
+      "title": "Integration Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK emphasizes project integration through charter development, plan development, execution, monitoring, and change control coordination.",
+          "principleId": 1
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 integrates processes through direct control of project stages, boundaries, and exception management across all themes.",
+          "principleId": 4
+        },
+        "ISO": {
+          "content": "ISO 21500 provides integration through coordination of project processes and alignment with organizational strategy and objectives.",
+          "principleId": 1
+        }
+      }
+    },
+    {
+      "id": 14,
+      "title": "Procurement Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK manages procurement through planning, conducting, controlling, and closing procurement activities with contract management.",
+          "principleId": 9
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 handles procurement through supplier management, contract control, and procurement alignment with project needs.",
+          "principleId": 7
+        },
+        "ISO": {
+          "content": "ISO 21500 provides procurement guidelines through planning, selection, and control of external resources and suppliers.",
+          "principleId": 4
+        }
+      }
+    },
+    {
+      "id": 15,
+      "title": "Business Case Management",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK addresses business justification through project charter and benefits management with alignment to organizational objectives.",
+          "principleId": 4
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 emphasizes continuous business justification as a core principle with regular business case reviews and updates.",
+          "principleId": 1
+        },
+        "ISO": {
+          "content": "ISO 21500 provides business case development and validation to ensure project alignment with organizational strategy.",
+          "principleId": 4
+        }
+      }
+    },
+    {
+      "id": 16,
+      "title": "Documentation & Reporting",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK emphasizes comprehensive project documentation including plans, reports, registers, and performance measurement documents.",
+          "principleId": 11
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 requires specific management products and reports including highlight reports, checkpoint reports, and end stage reports.",
+          "principleId": 5
+        },
+        "ISO": {
+          "content": "ISO 21500 provides guidelines for project documentation and reporting to ensure transparency and information management.",
+          "principleId": 7
+        }
+      }
+    },
+    {
+      "id": 17,
+      "title": "Closure & Handover",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK manages project closure through formal acceptance, documentation archiving, lessons learned, and resource release processes.",
+          "principleId": 12
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 handles project closure through planned closure, product handover, and post-project evaluation with follow-on actions.",
+          "principleId": 7
+        },
+        "ISO": {
+          "content": "ISO 21500 provides closure guidelines including acceptance, handover, and evaluation processes for project completion.",
+          "principleId": 7
+        }
+      }
+    },
+    {
+      "id": 18,
+      "title": "Lessons Learned Process",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK captures lessons learned throughout the project lifecycle with formal documentation and organizational process updates.",
+          "principleId": 9
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 emphasizes learning from experience as a core principle with lessons logs and continuous improvement integration.",
+          "principleId": 2
+        },
+        "ISO": {
+          "content": "ISO 21500 provides lessons learned processes for continuous improvement and knowledge management across projects.",
+          "principleId": 7
+        }
+      }
+    },
+    {
+      "id": 19,
+      "title": "Tailoring & Adaptation",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK emphasizes tailoring approaches based on project context, size, complexity, and organizational environment for optimal results.",
+          "principleId": 7
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 requires tailoring to suit project environment, size, complexity, importance, capability, and risk for effective implementation.",
+          "principleId": 7
+        },
+        "ISO": {
+          "content": "ISO 21500 provides adaptation guidelines to suit project context and organizational environment while maintaining standardization.",
+          "principleId": 2
+        }
+      }
+    },
+    {
+      "id": 20,
+      "title": "Value Delivery Focus",
+      "standards": {
+        "PMBOK": {
+          "content": "PMBOK focuses on delivering value through benefits realization, stakeholder satisfaction, and alignment with business objectives.",
+          "principleId": 4
+        },
+        "PRINCE2": {
+          "content": "PRINCE2 emphasizes delivering products that enable benefits realization and meet business case objectives for value creation.",
+          "principleId": 6
+        },
+        "ISO": {
+          "content": "ISO 21500 focuses on value delivery through meeting requirements, stakeholder expectations, and organizational strategic objectives.",
+          "principleId": 4
+        }
+      }
+    }
+  ]
+}
