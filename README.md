@@ -19,6 +19,9 @@ This application provides detailed insights into three leading project managemen
 - **Insights Dashboard** - Analytical view of similarities, differences, and unique features
 - **Advanced Search** - Intelligent search functionality across all standards and topics
 - **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+### Screenshots
+<img width="1339" height="642" alt="image" src="https://github.com/user-attachments/assets/59c25935-0a25-4b40-9f50-070f3baaec63" />
+
 
 ## Quick Start
 
@@ -40,3 +43,4 @@ npm run dev
 
 # Build for production
 npm run build
+
